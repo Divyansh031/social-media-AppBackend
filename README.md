@@ -56,8 +56,8 @@ This project is the backend for a social media application, built using FastAPI 
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/Divyansh031/courseSellingApp.git
-cd courseSellingApp
+git clone https://github.com/Divyansh031/social-media-AppBackend.git
+cd social-media-AppBackend
 ```
 #### 2. Set Up a Virtual Environment (recommended)
 ```bash
